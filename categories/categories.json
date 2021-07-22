@@ -1,12 +1,22 @@
 [
   {
+    "categoryName": "Appetizers",
+    "imageSaved": true,
+    "image": "Appetizers.jpg"
+  },
+  {
+    "categoryName": "Beverages",
+    "imageSaved": true,
+    "image": "Drinks.jpg"
+  },
+  {
     "categoryName": "Cakes",
     "imageSaved": true,
-    "image": "desserts.jpg"
+    "image": "drinks.jpg"
   },
   {
     "categoryName": "Cookies",
     "imageSaved": true,
-    "image": "cookies.jpg"
+    "image": "drinks.jpg"
   }
 ]
