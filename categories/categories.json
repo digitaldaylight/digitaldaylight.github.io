@@ -1,12 +1,8 @@
 [
   {
-    "categoryName": 1,
-    "imageSaved": true,
-    "image": "./lib/assets/drinks.jpg"
+    "categoryName": 1    
   },
   {
-    "categoryName": 2,
-    "imageSaved": true,
-    "image": "./lib/assets/drinks.jpg"
+    "categoryName": 2
   }
 ]
