@@ -1,8 +1,5 @@
-[
-  {
-    "categoryName": 1    
-  },
-  {
-    "categoryName": 2
-  }
-]
+{
+  "userId": 1,
+  "id": 1,
+  "title": "quidem molestiae enim"
+}
