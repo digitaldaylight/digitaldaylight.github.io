@@ -1,13 +1,12 @@
 [
-{
-  "userId": 1,
-  "id": 1,
-  "title": "quidem molestiae enim"
-},
-{
-  "userId": 1,
-  "id": 1,
-  "title": "quidem molestiae enim"
-}
-  ]
-
+  {
+    "categoryName": "Cakes",
+    "imageSaved": true,
+    "image": "./lib/assets/drinks.jpg"
+  },
+  {
+    "categoryName": "Cookies",
+    "imageSaved": true,
+    "image": "./lib/assets/drinks.jpg"
+  }
+]
