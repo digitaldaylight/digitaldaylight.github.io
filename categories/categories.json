@@ -1,11 +1,11 @@
 [
   {
-    "categoryName": "Cakes",
+    "categoryName": 1,
     "imageSaved": true,
     "image": "./lib/assets/drinks.jpg"
   },
   {
-    "categoryName": "Cookies",
+    "categoryName": 2,
     "imageSaved": true,
     "image": "./lib/assets/drinks.jpg"
   }
