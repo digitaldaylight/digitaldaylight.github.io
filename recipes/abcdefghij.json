@@ -1,0 +1,33 @@
+{
+  "recipeID": "abcdefghij",
+  "recipeName": "Cocoa Pebble Bars",
+  "ownerName": "Steve123456789",
+  "image": "none",
+  "description": "Gooey goodness",
+  "prepTime": 5,
+  "cookTime": 10,
+  "totalTime": 15,
+  "serves": 12,
+  "temp": 400,
+  "ingredient": [
+    "brown sugar",
+    "peanut butter",
+    "light corn syrup",
+    "cereal"
+  ],
+  "ingredAmount": [
+    1,
+    1,
+    1,
+    6
+  ],
+  "ingredUnit": [
+    "cup",
+    "cup",
+    "cup",
+    "cup"
+  ],
+  "directions": [
+    "Heat all but cereal in large sauce pan until large bubbles, mix in cereal.  Cool in cake pan."
+  ]
+}
