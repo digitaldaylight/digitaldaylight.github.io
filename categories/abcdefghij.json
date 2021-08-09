@@ -9,6 +9,7 @@
   "totalTime": 15,
   "serves": 12,
   "temp": 450,
+  "isMetric": false,
   "ingredient": [
     "brown sugar",
     "peanut butter",
