@@ -1,0 +1,19 @@
+{
+  "categories" : [ "appetizers", "beverages", "breakfast" ],
+  "cookTime" : 1,
+  "description" : "Fluffy",
+  "directions" : "Mix",
+  "ingredAmount" : [ 1, 1 ],
+  "ingredUnit" : [ "cup", "cup" ],
+  "ingredient" : [ "Foam", "Air" ],
+  "isMetric" : false,
+  "keywords" : [ "Fluffy", "", "" ],
+  "ownerName" : "Stevewk9ytf94",
+  "prepTime" : 1,
+  "recipeID" : "qfmkrHLgzlvh",
+  "recipeName" : "Stuff",
+  "serves" : 1,
+  "source" : 100,
+  "temp" : 350,
+  "totalTime" : 2
+}
