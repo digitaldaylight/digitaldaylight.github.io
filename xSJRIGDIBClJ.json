@@ -1,66 +1,85 @@
 {
-    "categories" : [ "cookie", "dessert" ],
-    "cookTime" : 10,
-    "description" : "These snickerdoodle cookies have a hint of apple butter for a different take on the classic favorite.\n\n",
-    "directions" : "Whisk together flour, cream of tartar, baking soda, salt, 1/4 teaspoon cinnamon, and nutmeg in a medium bowl until combined.\n\nMix together butter and 1 1/2 cups sugar in a large bowl until thoroughly combined. Stir in egg and vanilla until incorporated. Add apple butter and mix until combined. Pour in 1/2 of the dry ingredients and mix until just combined. Add remaining dry ingredients and mix just until no dry clumps of flour remain. Cover bowl and refrigerate for at least 2 hours, or up to 24 hours.\n\nPreheat the oven to 375 degrees F (190 degrees C). Line 2 baking sheets with parchment paper.\n\nBake in the preheated oven until edges are just set, about 10 minutes. Allow cookies to cool on baking sheets for 5 minutes before removing to a wire rack to cool completely.",
-    "ingredients" : [ {
-      "amount" : 2.75,
-      "ingredient" : "all-purpose flour",
-      "unit" : "cup"
-    }, {
-      "amount" : 0.5,
-      "ingredient" : "cream of tarter",
-      "unit" : "tsp"
-    }, {
-      "amount" : 0.5,
-      "ingredient" : "baking soda",
-      "unit" : "tsp"
-    }, {
-      "amount" : 0.5,
-      "ingredient" : "salt",
-      "unit" : "tsp"
-    }, {
-      "amount" : 0.25,
-      "ingredient" : "ground cinnamon",
-      "unit" : "tsp"
-    }, {
-      "amount" : 0.25,
-      "ingredient" : "ground nutmeg",
-      "unit" : "tsp"
-    }, {
-      "amount" : 1.75,
-      "ingredient" : "sugar",
-      "unit" : "cup"
-    }, {
-      "amount" : 0.5,
-      "ingredient" : "unsalted butter",
-      "unit" : "cup"
-    }, {
-      "amount" : 1,
-      "ingredient" : "large egg",
-      "unit" : "cup"
-    }, {
-      "amount" : 0.5,
-      "ingredient" : "vanilla",
-      "unit" : "tsp"
-    }, {
-      "amount" : 0.75,
-      "ingredient" : "apple butter",
-      "unit" : "cup"
-    }, {
-      "amount" : 2,
-      "ingredient" : "ground cinnamon",
-      "unit" : "tbsp"
-    } ],
-    "isUS" : false,
-    "keywords" : [ "Apple", "Cookies", "" ],
-    "ownerName" : "Stevewk9ytf94",
-    "prepTime" : 15,
-    "recipeID" : "xSJRIGDIBClJ",
-    "recipeName" : "Apple Butter Snickerdoodles",
-    "serves" : 12,
-    "source" : 100,
-    "temp" : 375,
-    "totalTime" : 150
-  }
-
+  "categories": [
+    "cookie",
+    "dessert"
+  ],
+  "cookTime": 10,
+  "description": "These snickerdoodle cookies have a hint of apple butter for a different take on the classic favorite.\n\n",
+  "directions": "Whisk together flour, cream of tartar, baking soda, salt, 1/4 teaspoon cinnamon, and nutmeg in a medium bowl until combined.\n\nMix together butter and 1 1/2 cups sugar in a large bowl until thoroughly combined. Stir in egg and vanilla until incorporated. Add apple butter and mix until combined. Pour in 1/2 of the dry ingredients and mix until just combined. Add remaining dry ingredients and mix just until no dry clumps of flour remain. Cover bowl and refrigerate for at least 2 hours, or up to 24 hours.\n\nPreheat the oven to 375 degrees F (190 degrees C). Line 2 baking sheets with parchment paper.\n\nBake in the preheated oven until edges are just set, about 10 minutes. Allow cookies to cool on baking sheets for 5 minutes before removing to a wire rack to cool completely.",
+  "ingredients": [
+    {
+      "amount": 2.75,
+      "ingredient": "all-purpose flour",
+      "unit": "cup"
+    },
+    {
+      "amount": 0.5,
+      "ingredient": "cream of tarter",
+      "unit": "tsp"
+    },
+    {
+      "amount": 0.5,
+      "ingredient": "baking soda",
+      "unit": "tsp"
+    },
+    {
+      "amount": 0.5,
+      "ingredient": "salt",
+      "unit": "tsp"
+    },
+    {
+      "amount": 0.25,
+      "ingredient": "ground cinnamon",
+      "unit": "tsp"
+    },
+    {
+      "amount": 0.25,
+      "ingredient": "ground nutmeg",
+      "unit": "tsp"
+    },
+    {
+      "amount": 1.75,
+      "ingredient": "sugar",
+      "unit": "cup"
+    },
+    {
+      "amount": 0.5,
+      "ingredient": "unsalted butter",
+      "unit": "cup"
+    },
+    {
+      "amount": 1,
+      "ingredient": "large egg",
+      "unit": "cup"
+    },
+    {
+      "amount": 0.5,
+      "ingredient": "vanilla",
+      "unit": "tsp"
+    },
+    {
+      "amount": 0.75,
+      "ingredient": "apple butter",
+      "unit": "cup"
+    },
+    {
+      "amount": 2,
+      "ingredient": "ground cinnamon",
+      "unit": "tbsp"
+    }
+  ],
+  "isUS": false,
+  "keywords": [
+    "Apple",
+    "Cookies",
+    ""
+  ],
+  "ownerName": "Stevewk9ytf94",
+  "prepTime": 15,
+  "recipeID": "xSJRIGDIBClJ",
+  "recipeName": "Apple Butter Snickerdoodles",
+  "serves": 12,
+  "source": 100,
+  "temp": 375,
+  "totalTime": 150
+}
