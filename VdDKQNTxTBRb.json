@@ -1,5 +1,4 @@
 {
-  "-Mk2X_AMTbPFKObg1kwd" : {
     "categories" : [ "appetizers", "beverages", "breakfast" ],
     "cookTime" : 1,
     "description" : "sgfsgbsgbgbnmetmm",
@@ -16,6 +15,5 @@
     "serves" : 2,
     "source" : 100,
     "temp" : 350,
-    "totalTime" : 3
-  }
+    "totalTime" : 3 
 }
