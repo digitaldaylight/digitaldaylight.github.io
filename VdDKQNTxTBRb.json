@@ -3,7 +3,7 @@
     "cookTime" : 1,
     "description" : "sgfsgbsgbgbnmetmm",
     "directions" : "gbsgt",
-    "ingredAmount" : [ 1 ],
+    "ingredAmount" : [ 1.0 ],
     "ingredUnit" : [ "qty" ],
     "ingredient" : [ "dsftthnfhgnnggnnn" ],
     "isMetric" : false,
