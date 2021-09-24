@@ -3,7 +3,7 @@
   "cookTime" : 1,
   "description" : "Fluffy",
   "directions" : "Mix",
-  "ingredAmount" : [ 1.0, 1.0 ],
+  "ingredAmount" : [ 1.5, 1.0 ],
   "ingredUnit" : [ "cup", "cup" ],
   "ingredient" : [ "Foam", "Air" ],
   "isMetric" : false,
