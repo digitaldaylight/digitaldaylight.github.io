@@ -3,7 +3,7 @@
   "cookTime" : 2,
   "description" : "sweet sweet candy",
   "directions" : "boil",
-  "ingredAmount" : [ 1, 0.5 ],
+  "ingredAmount" : [ 1.0, 0.5 ],
   "ingredUnit" : [ "cup", "cup" ],
   "ingredient" : [ "sugar", "water" ],
   "isMetric" : false,
