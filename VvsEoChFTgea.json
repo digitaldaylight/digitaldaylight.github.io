@@ -1,0 +1,19 @@
+{
+  "categories" : [ "candy" ],
+  "cookTime" : 2,
+  "description" : "sweet sweet candy",
+  "directions" : "boil",
+  "ingredAmount" : [ 1, 0.5 ],
+  "ingredUnit" : [ "cup", "cup" ],
+  "ingredient" : [ "sugar", "water" ],
+  "isMetric" : false,
+  "keywords" : [ "sweet", "candy", "" ],
+  "ownerName" : "Steveu3586890",
+  "prepTime" : 2,
+  "recipeID" : "VvsEoChFTgea",
+  "recipeName" : "candy",
+  "serves" : 1,
+  "source" : 100,
+  "temp" : 350,
+  "totalTime" : 2
+}
